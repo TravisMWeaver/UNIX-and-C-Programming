@@ -1,0 +1,8 @@
+Write a makefile for the following program: (2.5%)
+
+    boolean.h - A boolean type
+    mystrings.h - A string type header
+    mystrings.c - A string type implementation
+    Person.h - Person type header
+    Person.c - Person type implementation
+    NameAge.c - The NameAge program 
